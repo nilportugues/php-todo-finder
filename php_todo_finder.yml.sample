@@ -1,0 +1,7 @@
+todo_finder:
+  total_allowed: 5
+  expressions:
+    - @todo
+    - TODO
+    - refactor
+    - FIX ME

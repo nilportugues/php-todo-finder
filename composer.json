@@ -1,0 +1,45 @@
+{
+  "name": "nilportugues/php_todo",
+  "type": "library",
+  "description": "Looks into the code using a user-defined list of to-do phrases and stops commit if the total amount increased or is above a threshold.",
+  "keywords": [
+    "php",
+    "git",
+    "hook",
+    "fixer",
+    "function",
+    "checker",
+    "functions",
+    "forbidden"
+  ],
+  "homepage": "http://nilportugues.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Nil Portugués Calderó",
+      "email": "contact@nilportugues.com",
+      "role": "Project Lead Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.4",
+    "symfony/console": "~2.2",
+    "symfony/yaml": "^2.7"
+  },
+  "require-dev": {
+    "fabpot/php-cs-fixer": "1.4.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "NilPortugues\\TodoFinder\\": "src/TodoFinder/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "NilPortugues\\Tests\\TodoFinder\\": "tests/"
+    }
+  },
+  "bin": [
+    "bin/php_todo"
+  ]
+}

@@ -1,0 +1,6 @@
+#!/usr/bin/env php
+<?php
+require_once __DIR__ . '/../src/bootstrap.php';
+
+$application = new \NilPortugues\TodoFinder\Console\Application();
+$application->run();

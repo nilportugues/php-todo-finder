@@ -1,0 +1,5 @@
+/vendor
+/composer.lock
+/build_test
+.php_cs.cache
+php_todo_finder.yml
