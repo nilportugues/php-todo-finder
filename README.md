@@ -22,7 +22,7 @@ Purpose is to keep the @todo list low and forcing cleaning the code or resolving
 Use [Composer](https://getcomposer.org) to install the package:
 
 ```
-$ composer require nilportugues/php_todo
+$ composer require --dev nilportugues/php_todo
 ```
 
 ## Usage
