@@ -22,7 +22,7 @@ Purpose is to keep the @todo list low and forcing cleaning the code or resolving
 Use [Composer](https://getcomposer.org) to install the package:
 
 ```
-$ composer require nilportugues/php_todo
+$ composer require --dev nilportugues/php_todo
 ```
 
 ## Usage
@@ -55,7 +55,7 @@ todo_finder:
 You can specify an alternate location for the configuration file by passing in the `-c` parameter. Example:
 
 ```
-$  php bin/php_todo check -c configs/php_todo_finder.yml src/
+$  php bin/php_todo find -c configs/php_todo_finder.yml src/
 ```
 
 
