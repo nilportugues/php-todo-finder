@@ -4,6 +4,7 @@
 [![Total Downloads](https://poser.pugx.org/nilportugues/php_todo/downloads)](https://packagist.org/packages/nilportugues/php_todo)
 [![License](https://poser.pugx.org/nilportugues/php_todo/license)](https://packagist.org/packages/nilportugues/php_todo)
 
+# PHP To-do Finder
 
 ## Why
 Keep the @todo count for each commit.
