@@ -13,6 +13,9 @@ Do not allow commits if the total amount of @todo increased or is above a user-d
 
 Purpose is to keep the @todo list low and forcing cleaning the code or resolving them.
 
+**Based on the ideas of:**
+
+- http://jezenthomas.com/using-git-to-manage-todos/
 
 ## Installation
 
@@ -55,9 +58,7 @@ You can specify an alternate location for the configuration file by passing in t
 $  php bin/php_todo check -c configs/php_todo_finder.yml src/
 ```
 
-## Based on the ideas from:
 
-- http://jezenthomas.com/using-git-to-manage-todos/
 
 ## Contribute
 
