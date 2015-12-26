@@ -1,10 +1,10 @@
+# PHP To-do Finder
+
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/nilportugues/php_todo_finder/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/nilportugues/php_todo_finder/?branch=master)
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/de4fc897-e1bc-4ab2-9ac2-b3518538fad1/mini.png)](https://insight.sensiolabs.com/projects/de4fc897-e1bc-4ab2-9ac2-b3518538fad1)
 [![Latest Stable Version](https://poser.pugx.org/nilportugues/php_todo/v/stable)](https://packagist.org/packages/nilportugues/php_todo)
 [![Total Downloads](https://poser.pugx.org/nilportugues/php_todo/downloads)](https://packagist.org/packages/nilportugues/php_todo)
 [![License](https://poser.pugx.org/nilportugues/php_todo/license)](https://packagist.org/packages/nilportugues/php_todo)
-
-# PHP To-do Finder
 
 ## Why
 Keep the @todo count for each commit.
