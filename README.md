@@ -5,6 +5,7 @@
 [![Latest Stable Version](https://poser.pugx.org/nilportugues/php_todo/v/stable)](https://packagist.org/packages/nilportugues/php_todo)
 [![Total Downloads](https://poser.pugx.org/nilportugues/php_todo/downloads)](https://packagist.org/packages/nilportugues/php_todo)
 [![License](https://poser.pugx.org/nilportugues/php_todo/license)](https://packagist.org/packages/nilportugues/php_todo)
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://paypal.me/nilportugues)
 
 ## Why
 Keep the @todo count for each commit.
